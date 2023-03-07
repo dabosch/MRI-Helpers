@@ -9,7 +9,7 @@ optimize TI and FA for MPRAGE measurements, dependent on TR, T1, N_lines, ...
 
 | Voila | Jupyter Lab |
 | :-----------------------: | :---------------------: |
-| [![voila][badge]][MPRAGE-optim-voila] | [![lab][badge][MPRAGE-optim-binder]] |
+| [![voila][badge]][MPRAGE-optim-voila] | [![lab][badge]][MPRAGE-optim-lab] |
 
 
 
